@@ -1,0 +1,34 @@
+[
+  {
+    "file": "1-cover.jpg",
+    "path": "#/",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    }
+  },
+  {
+    "file": "2-anggaran.jpg",
+    "path": "#/anggaran",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    }
+  },
+  {
+    "file": "3-laporan.jpg",
+    "path": "#/laporan",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    }
+  },
+  {
+    "file": "4-phone.jpg",
+    "path": "#/",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    }
+  }
+]
