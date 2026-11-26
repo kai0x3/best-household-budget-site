@@ -22,7 +22,7 @@ Entry for the [Make the best household budget site](https://make.fun/c/best-hous
 Situs ini file statis tanpa build step dan tanpa permintaan jaringan:
 
 ```sh
-node serve.ts        # atau server statis apa pun dengan app/ sebagai root
+python3 -m http.server 8080 --directory app   # atau server statis apa pun dengan app/ sebagai root
 ```
 
 Lalu buka http://localhost:8080. Semua data tersimpan di `localStorage` peramban; tidak ada data yang dikirim ke mana pun.
